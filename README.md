@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eunjin4475&show_icons=true&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjin4475&layout=compact&theme=swift)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eunjin4475&show_icons=true&theme=jolly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjin4475&layout=compact&theme=jolly)
 
 #
 <h1>📚 STACKS</h1>
