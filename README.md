@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eunjin4475&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjin4475&layout=compact&theme=buefy)
-  
-  </div>
 
-
-<div align=center><h1>📚 STACKS</h1></div>
+<h1>📚 STACKS</h1></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
