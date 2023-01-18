@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eunjin4475&show_icons=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjin4475&layout=compact&theme=swift)
 
 
 <div align=center><h1>📚 STACKS</h1></div>
